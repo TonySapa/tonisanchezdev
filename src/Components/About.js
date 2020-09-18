@@ -13,7 +13,7 @@ class About extends Component {
       var telegram = this.props.data.telegram;
       var telegramLink = this.props.data.telegramLink;
       var email = this.props.data.email;
-      var resumeDownload = '../../docs/cv_toni_sanchez.pdf' //this.props.data.resumedownload;
+      var resumeDownload = 'https://drive.google.com/file/d/1fcjlCLwwvxSObvJrpL5pLoCB8aix1JTl/view?usp=sharing' //this.props.data.resumedownload;
     }
 
     return (
