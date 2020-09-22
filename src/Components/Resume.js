@@ -79,7 +79,7 @@ class Resume extends Component {
                   <p>{badges}</p>
                  {/*<p>{certifications}</p>*/}
                   <h1>Proven skills</h1>
-                  <p>MongoDB querying and database administration, CRUD Applications with MongoDB, React and Node, programming in JavaScript, REST API with Node and MongoDB, Google/AWS/Azure development and deployment, Web development with HTML5 and CSS3, Microsoft 365, Excel and G-Suite. </p>
+                  <p>MongoDB querying and database administration, CRUD Applications with MongoDB, React and Node, programming in JavaScript, REST API with Node and MongoDB, Google/AWS/Azure development and deployment, Web development with HTML5 and CSS3, Microsoft 365, Advanced Excel (VBA Macros, PowerQuery, Excel API...) and G-Suite Enterprise Administration. </p>
                </div>
             </div>
          </div>
