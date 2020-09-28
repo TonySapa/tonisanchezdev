@@ -5,7 +5,7 @@
     "image":"profilepic.jpg",
     "bioWhat":"I develop engaging, modern and extremely automated digital products, such as mobile, web and desktop applications as well as GraphQL API and REST API, my mantra: \"Scalable, Reusable, Maintainable\". I achieve scalability and reusability by separating the \"UX\" from the \"data\" as far as possible and beyond. I succeed on making it maintainable by always working with TDD approach, trying to become better at testing that I am at coding. Full Stack skills, from designing a fresh prototype with Sketch to develop with React, querying mongodb, creating back end API with Node to programming a server with Express. I still don't have a favorite field yet, as long as I can use React on a daily basis.",
     "bioHow": "Passionate about functional programming. I am not scared of using mathematical thinking. My mind thinks in JavaScript, my stack is MERN, but I choose to live the JS fatigue, always ready for next framework. Android/iOS apps with React Native, desktop apps with Electron JS or Java. I can work with jQuery instead of React or complementing it, PHP instead of Node, Python instead of Java and SQL instead of Mongo, although I would not choose that stack and therefore I am not that creative with it as with MERN.",
-    "bioWhen": "UX/UI of the applications ***, a+ and ticktax.io where designed and prototyped by me using Sketch. All applications listed on this site (included this site, ha) are developed with React. Despite earlier versions of a+ application that where querying SQL with PHP in the back, earlier versions and the rest of the applications are querying mongoDB using Node. There is no scalability without Redux, I implement it 99% of the cases, even when the project looks apparently small. Probably no one cares, but I also tend to work with SASS or other pre-processors when project gets too big.",
+    "bioWhen": "All applications listed on this site (included this site, ha) are developed with React. Despite earlier versions of a+Eco REST API that where querying SQL with PHP in the back, earlier versions and the rest of the applications are querying mongoDB using Node. There is no scalability without Redux, I implement it 99% of the cases, even when the project looks apparently small. Last, and less important, I also tend to work with SASS or other pre-processors when project gets too big.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "hello@tonisanchez.dev",
     "phone": "555-555-5555",
@@ -80,23 +80,11 @@
         "badge": "AWS-CloudPractitioner.png"
       },
       {
-        "name": "Azure Fundamentals",
-        "issuing": "Microsoft Official Certification",
-        "description": "Candidates for the Azure Fundamentals certification should have foundational knowledge of cloud services and how those services are provided with Microsoft Azure. This certification is intended for candidates who are just beginning to work with cloud-based solutions and services or are new to Azure.",
-        "badge": "azure_fundamentals.png"
-      },
-      {
         "name": "98-383: HTML & CSS",
         "issuing": "Microsoft Official Certification",
         "description": "Exam venue: PUE, Barcelona on August 23, 2019 at 11:00am, language: English. Microsoft Technology Associate in Programming with HTML & CSS.",
         "badge": "mta98383.png",
         "badge_link": "https://www.youracclaim.com/badges/a6c15b29-adf8-4b97-b39b-a4ade382f60c/public_url"
-      },
-      {
-        "name": "Microsoft 365 Fundamentals",
-        "issuing": "Microsoft Official Certification",
-        "description": "understanding of the options available in Microsoft 365 and the benefits of adopting cloud services, the Software as a Service (SaaS) cloud model, and implementing Microsoft 365 cloud service.",
-        "badge": "365fundamentals.png"
       },
       {
         "name": "MOS Excel 2016 Expert",
@@ -111,12 +99,6 @@
         "description": "Exam venue: PUE, Barcelona on August 2, 2019 at 11:00am, language: English. Microsoft Excel 2016 Certification exam earners have a fundamental understanding of Excel 2016 and the ability to complete tasks independently. Earners have proven they can create and edit a workbook with multiple sheets, and use graphic elements to represent data visually including professional-looking budgets, financial statements, performance charts, and data-entry logs. Excel earners include students, business professionals, clerical workers, bookkeepers, educators, and others.",
         "badge": "mos2016.png",
         "badge_link": "https://www.youracclaim.com/badges/a6c15b29-adf8-4b97-b39b-a4ade382f60c/public_url"
-      },
-      {
-        "name": "G SUITE",
-        "issuing": "Google Official Certification",
-        "description": "Ability to complete common workplace activities using cloud-based tools to create and share documents, spreadsheets, presentations, and files.",
-        "badge": "gsuite.png"
       }
     ],
     "work":[
