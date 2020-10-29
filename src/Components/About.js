@@ -36,7 +36,7 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   Telegram <i className="fab fa-telegram"></i> <a href={telegramLink} target='_blank'><p>{telegram}</p></a>
-                  Email <a href='mailto:hello@tonisanchez.dev'><p>{email}</p></a>
+                  Email <a href='mailto:tonisanchez.dev@gmail.com'><p>{email}</p></a>
                </div>
                <div className="columns download">
                   <p>

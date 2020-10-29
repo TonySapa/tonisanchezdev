@@ -7,7 +7,7 @@
     "bioHow": "Passionate about functional programming. I am not scared of using mathematical thinking. My mind thinks in JavaScript, my stack is MERN, but I choose to live the JS fatigue, always ready for next framework. Android/iOS apps with React Native, desktop apps with Electron JS or Java. I can work with jQuery instead of React or complementing it, PHP instead of Node, Python instead of Java and SQL instead of Mongo, although I would not choose that stack and therefore I am not that creative with it as with MERN.",
     "bioWhen": "All applications listed on this site (included this site, ha) are developed with React. Despite earlier versions of a+Eco REST API that where querying SQL with PHP in the back, earlier versions and the rest of the applications are querying mongoDB using Node. There is no scalability without Redux, I implement it 99% of the cases, even when the project looks apparently small. Last, and less important, I also tend to work with SASS or other pre-processors when project gets too big.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "hello@tonisanchez.dev",
+    "email": "tonisanchez.dev@gmail.com",
     "phone": "555-555-5555",
     "telegram": "@T4733",
     "telegramLink": "https://t.me/T4733",

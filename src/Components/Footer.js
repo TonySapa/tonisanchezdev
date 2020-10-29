@@ -20,7 +20,8 @@ class Footer extends Component {
 
            <ul className="copyright">
               <li>&copy; 2020</li>
-              <li>Developed with React, deployed with AWS Amplify. <a title="Styleshout" href="mailto:hello@tonisanchez.dev">hello@tonisanchez.dev</a></li>
+              <li>Developed with React, deployed with AWS Amplify</li>
+              <li><a title="Styleshout" href="mailto:tonisanchez.dev@gmail.com">Contact</a></li>
            </ul>
 
         </div>
