@@ -76,7 +76,7 @@ class Resume extends Component {
          <div className="nine columns main-col">
             <div className="row item">
                 <div className="twelve columns">
-                  <p>{badges}</p>
+                  <p style={{textAlign:'center'}}>{badges}</p>
                  {/*<p>{certifications}</p>*/}
                   <h1>Proven skills</h1>
                   <p>MongoDB querying and database administration, CRUD Applications with MongoDB, React and Node, programming in JavaScript, REST API with Node and MongoDB, Google Cloud/AWS development and deployment, Web development with HTML5 and CSS3, Microsoft 365, Advanced Excel (VBA Macros, PowerQuery, Excel API...) and G-Suite Enterprise Administration. </p>
