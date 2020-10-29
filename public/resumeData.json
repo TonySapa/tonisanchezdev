@@ -109,10 +109,10 @@
         "description":"Web/Mobile/Desktop app for automation of HR processes, time tracking with geolocation, signing documents online and more. Server programmed in Node using Express. All CRUD operations querying MongoDB. Scalable and reusable front end built with React and tested with Jest. E2E Testing with Cypress."
       },
       {
-        "company":"eTaxes",
+        "company":"ticktax.io",
         "title":"Full Stack Developer",
         "years":"2020",
-        "description":"Releasing full version in 2021. Web/Mobile/Desktop app. Fully automated accounting/taxation suite for freelancers and small companies. OCR (optical character recognition) to detect and automate accounting and tax processes, chatbot for elemental tax/legal advice, and many other tools. Integration with Sage, A3eco, Quickbooks and many others. And other more interesting secret features. Server programmed in Node using Express. All CRUD operations querying MongoDB. Scalable and reusable front end built with React and tested with Jest. E2E testing with Cypress."
+        "description":"Releasing full version in 2021. Web/Mobile/Desktop app. Fully automated accounting/taxation suite for freelancers and small companies. OCR (optical character recognition) to detect and automate accounting and tax processes, chatbot for elemental tax/legal advice, and many other tools. Integration with Sage®, A3eco®, Quickbooks® and many others. And other more interesting secret features. Server programmed in Node using Express. All CRUD operations querying MongoDB. Scalable and reusable front end built with React and tested with Jest. E2E testing with Cypress."
       },
       {
         "company":"Ilia Consulting | ETL Global",
@@ -167,16 +167,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"***",
-        "category":"Desktop/Android/iOS/Web application for HR process automation and management.",
-        "image":"mystaffCode2.png",
-        "url":"***"
+        "title":"ticktax.io",
+        "category":"Accounting suite for tax automation. API Integration with SAGE®, a3Eco®, Quickbooks® and more.",
+        "image":"ticktax.io-landing-page.png",
+        "url":"https://www.ticktax.io"
       },
       {
         "title":"a+Eco",
         "category":"REST API tool to encode and decode a3ECO files, the only free alternative to the official tool.",
-        "image":"mystaffCode2.png",
+        "image":"github-a3eco.png",
         "url":"https://github.com/TonySapa/aplus-eco"
+      },
+      {
+        "title":"***",
+        "category":"Desktop/Android/iOS/Web application for HR process automation, project management and payslip management.",
+        "image":"github-hrapp.png",
+        "url":"https://github.com/TonySapa/hr-back"
       }
     ]
   }
