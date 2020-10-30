@@ -173,16 +173,21 @@
         "url":"https://www.ticktax.io"
       },
       {
+        "title":"***",
+        "category":"Desktop/Android/iOS/Web application for HR process automation, project management and payslip management.",
+        "image":"github-hrapp.png",
+        "url":"https://github.com/TonySapa/hr-back"
+      },
+      {
         "title":"a+Eco",
         "category":"REST API tool to encode and decode a3ECO files, the only free alternative to the official tool.",
         "image":"github-a3eco.png",
         "url":"https://github.com/TonySapa/aplus-eco"
       },
       {
-        "title":"***",
-        "category":"Desktop/Android/iOS/Web application for HR process automation, project management and payslip management.",
-        "image":"github-hrapp.png",
-        "url":"https://github.com/TonySapa/hr-back"
+        "title":"reactSavvy",
+        "category":"Blog about React best practices and modern React development guides",
+        "image":"reactSavvy-blog.png"
       }
     ]
   }
