@@ -51,7 +51,7 @@
         "school":"University of Helsinki",
         "degree":"BSc in Computer Science",
         "graduated":"Coursing part-time",
-        "description":"Completed courses: Full Stack Open. MongoDB, Express, React, Node. (9 ECTS), Full Stack Open Project (10 ECTS), Introduction to Programming. Java I. (5 ECTS), Advanced Programming. Java II. (5 ECTS), DevOps with Docker (3 ECTS), Elements of AI (2 ECTS)"
+        "description":"Completed courses: Full Stack Open. MongoDB, Express, React, Node. (9 ECTS), Full Stack Open Project (10 ECTS), Introduction to Programming. Java I. (5 ECTS), Advanced Programming. Java II. (5 ECTS), DevOps with Docker (3 ECTS), Elements and Building AI (5 ECTS)"
       },
       {
         "school":"Universitat Pompeu Fabra",
@@ -104,73 +104,35 @@
     "work":[
       {
         "company":"Freelance",
+        "web":"https://www.tonisanchez.dev",
+        "array": ["abc", "def"],
         "title":"Full Stack Developer",
-        "years":"2017 - 2020",
-        "description":"Coding for different free open source applications, UI/UX kits, React templates, modern websites and web browser extensions."
+        "years":"2017 - current",
+        "description":"Coding for different free open source applications, UI/UX kits, React templates, modern websites and web browser extensions. Blogged about React and modern development on Medium, Dev.to, reactSavvy and others. The 4 most recent coding projects can be found on portfolio section."
       },
       {
         "company":"ticktax.io",
+        "web":"https://www.ticktax.io",
         "title":"Full Stack Developer",
-        "years":"2020",
-        "description":"Releasing full version in 2021. Web/Mobile/Desktop app. Fully automated accounting/taxation suite for freelancers and small companies. OCR (optical character recognition) to detect and automate accounting and tax processes, chatbot for elemental tax/legal advice, and many other tools. Integration with Sage®, A3eco®, Quickbooks® and many others. And other more interesting secret features. Server programmed in Node using Express. All CRUD operations querying MongoDB. Scalable and reusable front end built with React and tested with Jest. E2E testing with Cypress."
+        "years":"2020 - current",
+        "description":"Releasing full version in 2021. Web/Mobile/Desktop app. Fully automated accounting/taxation suite for freelancers and small companies. OCR (optical character recognition) to detect and automate accounting and tax processes, and many other tools. Integration with Sage®, A3eco®, Quickbooks® and many others. Server programmed with Node using Express. All CRUD operations querying MongoDB. Scalable and reusable front end built with React and tested with Jest. E2E testing with Cypress.",
+        "achievements":"Building the first accounting suite with fully customisable interface, developed the first free API to encode/decode a3Eco software files as an altenative to the official paid application."
       },
       {
         "company":"Ilia Consulting | ETL Global",
+        "web":"https://www.ilia.cat",
         "title":"Full Stack Developer",
         "years":"2019 - 2020",
-        "description":"Automation of accounting processes with Scripts. Developed internal tools in React, PHP and SQL. Other IT and Accounting support tasks."
+        "description":"Developing a web application for accounting processes automation in the IT department of a legal Firm specialised in automated accounting and taxation.",
+        "achievements": "Personally developed API with Node to automate accounting entries of more than 4,000 yearly Skrill online payments in different currencies that were processed manually by accountants. Personally developed API in Node to automate more than 10,000 yearly Paypal online payments in different currencies that were processed manually by accountants. Personally developed CRUD Application with MERN to use own DB and automate accounting entries of different format csv and xls files that were previously made with expensive external software, personally developed API in Node to automate Bank conciliations that was previously made with expensive external software."
       },
       {
         "company":"De Rosa i Associats",
+        "web":"https://www.sugestorialowcost.es",
         "title":"Jr. Accountant",
         "years":"2018",
         "description":"Accounting and bookkeeping in a modern online accounting firm specialised in automated accounting and taxation.",
-        "achievements": [
-          "Automated duplicated invoices alert with automatic outlook e-mail sent to the customer, using PowerQuery and SQL.",
-          "Automated something."
-        ]
-      }
-    ],
-    "skills":[
-      {
-        "name":"HTML5 & CSS3",
-        "level":"98%"
-      },
-      {
-        "name":"ES6 JavaScript",
-        "level":"75%"
-      },
-      {
-        "name":"Java",
-        "level":"73%"
-      },
-      {
-        "name":"React",
-        "level":"72%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"70%"
-      },
-      {
-        "name":"Node",
-        "level":"60%"
-      },
-      {
-        "name":"PHP",
-        "level":"50%"
-      },
-      {
-        "name":"AWS",
-        "level":"50%"
-      },
-      {
-        "name":"Azure",
-        "level":"50%"
-      },
-      {
-        "name":"Google Cloud",
-        "level":"50%"
+        "achievements":"Personally automated email notices after invoice duplicate detection using PowerQuery and SQL."
       }
     ]
   },
@@ -178,26 +140,29 @@
     "projects": [
       {
         "title":"ticktax.io",
-        "category":"Accounting suite for tax automation. API Integration with SAGE®, a3Eco®, Quickbooks® and more.",
-        "image":"ticktax.io-landing-page.png",
+        "bio":"ticktax.io is an accounting and taxation software. This CRUD application has the goal of automating all the processes of an accounting firm that deals with small companies and freelancers. The number of future features is infinite. The features available right now are: automatic bank conciliation, bookkeeping automation, integration with a3Eco and SAGE, and many more.",
+        "image":"ticktax.gif",
+        "imageMobile": "ticktax-mobile.png",
+        "logos": [{"img": "mongo-d1.png", "name":"Mongodb"}, {"img": "express-d1.png", "name": "Express.js"}, {"img": "redux-d1.png", "name": "React & Redux"}, {"img": "node-d1.png", "name": "Node"}, {"img": "graphql-d1.png", "name": "GraphQL"}, {"img": "jest-d1.png", "name": "Jest"}, {"img": "cypress-d1.png", "name": "Cypress"}, {"img": "aws-d1.png", "name": "AWS"}],
+        "skills": ["Fintech", "REST", "Automation", "Node", "Mongodb", "Accounting"],
         "url":"https://www.ticktax.io"
       },
       {
-        "title":"***",
-        "category":"Desktop/Android/iOS/Web application for HR process automation, project management and payslip management.",
-        "image":"github-hrapp.png",
-        "url":"https://github.com/TonySapa/hr-back"
-      },
-      {
-        "title":"a+Eco",
-        "category":"REST API tool to encode and decode a3ECO files, the only free alternative to the official tool.",
-        "image":"github-a3eco.png",
-        "url":"https://github.com/TonySapa/aplus-eco"
-      },
-      {
         "title":"reactSavvy",
-        "category":"Blog about React best practices and modern React development guides",
-        "image":"reactSavvy-blog.png"
+        "bio":"reactSavvy.com is a Blog built from scratch with React, meaning pure coding, without using Wordpress or other third party solutions. The blog addresses advanced topics for Professional React Developers. With the goal of helping debugging React code and document daily issues and bugs when professionally working with React. All posts are written by me, Toni Sánchez.",
+        "image":"reactSavvy-blog.png",
+        "imageMobile": "reactSavvy-mobile.png",
+        "logos": [{"img": "redux-d1.png", "name": "React & Redux"}, {"img": "sass-d1.png", "name": "SASS"}, {"img": "jest-d1.png", "name": "Jest"}],
+        "skills": ["Debugging", "React", "Redux", "CSS3", "Content Automation"],
+        "url":"https://www.reactsavvy.com"
+      },
+      {
+        "title": "tonisanchez.dev",
+        "bio": "tonisanchez.dev is a personal portfolio website built with React. The source code has been later used to develope future UI/UX kits as well as React landing page templates. Is a responsive design, very simple and minimalistic and all components are reusable, all the data is stored in a JSON file and passed as props to the React functional components, separating the UI from the data.",
+        "image": "tonisanchezdev.gif",
+        "imageMobile": "tsdev-mobile.png",
+        "logos": [{"img": "react-d1.png", "name": "React"}, {"img": "sass-d1.png", "name": "SASS"}, {"img": "jest-d1.png", "name": "Jest"}],
+        "skills": ["React", "Responsive", "HTML5", "CSS3", "Design", "Sketch" ]
       }
     ]
   }
