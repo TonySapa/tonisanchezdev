@@ -129,6 +129,7 @@ a.project:hover {
   margin-right: 4px;
   line-height: 35px;
   cursor: pointer;
+  font-family: 'Source Sans Pro'
 }
 
 .tag:hover {

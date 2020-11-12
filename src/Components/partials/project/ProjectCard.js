@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 
+
 /*
 NOTES:
 
@@ -9,7 +10,6 @@ props.width will be window.innerWidth...
 
 const ProjectCard = (props) => {
   const project = props.project
-
   const [width, setWidth] = useState(window.innerWidth)
   const [flexDirection, setFlexDirection] = useState('column')
   const [previewMargin, setPreviewMargin] = useState(null)
@@ -82,7 +82,8 @@ const ProjectCard = (props) => {
     borderRadius: "5px",
     flex: '70%',
     padding: '0 8% 0 5%',
-    textAlign: 'justify'
+    textAlign: 'justify',
+    //fontFamily: 'Quicksand'
   };
 
   const imgBack = {
@@ -113,6 +114,11 @@ const ProjectCard = (props) => {
     alignItems: 'center'*/
     margin: '23px 0 30px 0'
   };
+
+  const logoElement = {
+    width: '8%',
+    minWidth: '30px'
+  }
 
   const tooltip = {
     width: '100%',
@@ -152,7 +158,7 @@ const ProjectCard = (props) => {
     fontSize: '14px',
     margin: '4px 2px 6px 2px',
     lineHeight: '25px',
-    cursor: 'pointer' 
+    cursor: 'pointer'
   }
 
   return (
@@ -195,7 +201,7 @@ const ProjectCard = (props) => {
           <div style={logos} class='avatars'>
             {project.logos.map(logo => (
               <a /*style={tooltip}*/ data-tooltip={logo.name} data-placement="top" >
-                <img src={`images/logos/${logo.img}`} alt={logo} width='8%' />
+                <img src={`images/logos/${logo.img}`} alt={logo} style={logoElement} />
               </a>
             ))}
           </div>

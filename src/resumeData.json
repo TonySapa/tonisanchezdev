@@ -153,7 +153,7 @@
         "image":"reactSavvy-blog.png",
         "imageMobile": "reactSavvy-mobile.png",
         "logos": [{"img": "redux-d1.png", "name": "React & Redux"}, {"img": "sass-d1.png", "name": "SASS"}, {"img": "jest-d1.png", "name": "Jest"}],
-        "skills": ["Debugging", "React", "Redux", "CSS3", "Content Automation"],
+        "skills": ["Debugging", "React", "Redux", "Figma", "Content Automation"],
         "url":"https://www.reactsavvy.com"
       },
       {
