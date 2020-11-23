@@ -148,6 +148,15 @@
         "url":"https://www.ticktax.io"
       },
       {
+        "title":"dockee",
+        "bio":"dockee is a React template for building responsive software documentation sites without coding in just minutes. Code is factorised on a way that the user just needs to fill JSX object fields with its own data to create a custom site.",
+        "image":"dockee-pc.png",
+        "imageMobile": "dockee-mobile.png",
+        "logos": [{"img": "react-d1.png", "name": "React"}, {"img": "sass-d1.png", "name": "SASS"}, {"img": "jest-d1.png", "name": "Jest"}],
+        "skills": ["Automation", "React", "React router", "Responsive"],
+        "url":"https://www.github.com/TonySapa/dockee-docs"
+      },
+      {
         "title":"reactSavvy",
         "bio":"reactSavvy.com is a Blog built from scratch with React, meaning pure coding, without using Wordpress or other third party solutions. The blog addresses advanced topics for Professional React Developers. With the goal of helping debugging React code and document daily issues and bugs when professionally working with React. All posts are written by me, Toni Sánchez.",
         "image":"reactSavvy-blog.png",
