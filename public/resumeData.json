@@ -1,7 +1,8 @@
 {
   "main": {
     "name":"Toni Sánchez",
-    "description":"I am Toni Sánchez, a Full Stack Developer in love with JavaScript, MERN stack and my dog Lennon.",
+    "welcomeTitle": "`welcome ${you}`",
+    "description":"I am Toni, a Developer in ❤️ with JS and my 🐶 Lennon.",
     "image":"profilepic.jpg",
     "bioWhat":"I develop engaging, modern and extremely automated digital products, such as mobile, web and desktop applications as well as GraphQL API and REST API, my mantra: \"Scalable, Reusable, Maintainable\". I achieve scalability and reusability by separating the \"UI\" from the \"data\" as far as possible and beyond. I succeed on making it maintainable by always working with TDD approach, trying to become better at testing that I am at coding. Full Stack skills, from designing a fresh prototype with Sketch to develop with React, querying mongodb, creating back end API with Node to programming a server with Express. I still don't have a favorite field yet, as long as I can use React on a daily basis.",
     "bioHow": "Passionate about functional programming. I am not scared of using mathematical thinking. My mind thinks in JavaScript, my stack is MERN, but I choose to live the JS fatigue, always ready for next framework. Android/iOS apps with React Native, desktop apps with Electron JS or Java. I can work with jQuery instead of React or complementing it, PHP instead of Node, Python instead of Java and SQL instead of Mongo, although I would not choose that stack and therefore I am not that creative with it as with MERN.",

@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Toni Sánchez",
-    "description":"I am Toni Sánchez, a Full Stack Developer in love with JavaScript, MERN stack and my dog Lennon.",
+    "description":"I am Toni Sánchez, a Developer in love with JavaScript, MERN stack and my dog Lennon.",
     "image":"profilepic.jpg",
     "bioWhat":"I develop engaging, modern and extremely automated digital products, such as mobile, web and desktop applications as well as GraphQL API and REST API, my mantra: \"Scalable, Reusable, Maintainable\". I achieve scalability and reusability by separating the \"UI\" from the \"data\" as far as possible and beyond. I succeed on making it maintainable by always working with TDD approach, trying to become better at testing that I am at coding. Full Stack skills, from designing a fresh prototype with Sketch to develop with React, querying mongodb, creating back end API with Node to programming a server with Express. I still don't have a favorite field yet, as long as I can use React on a daily basis.",
     "bioHow": "Passionate about functional programming. I am not scared of using mathematical thinking. My mind thinks in JavaScript, my stack is MERN, but I choose to live the JS fatigue, always ready for next framework. Android/iOS apps with React Native, desktop apps with Electron JS or Java. I can work with jQuery instead of React or complementing it, PHP instead of Node, Python instead of Java and SQL instead of Mongo, although I would not choose that stack and therefore I am not that creative with it as with MERN.",
@@ -148,10 +148,10 @@
         "url":"https://www.ticktax.io"
       },
       {
-        "title":"dockee",
-        "bio":"dockee is a React template for building responsive software documentation sites without coding in just minutes. Code is factorised on a way that the user just needs to fill JSX object fields with its own data to create a custom site.",
-        "image":"dockee-pc.png",
-        "imageMobile": "dockee-mobile.png",
+        "title":"dokey",
+        "bio":"Dokey docs is an API Docs generator built with React, JSS and Node. The user can build responsive software documentation sites without coding in just minutes.",
+        "image":"dokey-docs.png",
+        "imageMobile": "dokey-mobile-frame.png",
         "logos": [{"img": "react-d1.png", "name": "React"}, {"img": "sass-d1.png", "name": "SASS"}, {"img": "jest-d1.png", "name": "Jest"}],
         "skills": ["Automation", "React", "React router", "Responsive"],
         "url":"https://www.github.com/TonySapa/dockee-docs"
