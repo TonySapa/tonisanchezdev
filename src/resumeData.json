@@ -105,10 +105,16 @@
       {
         "company":"Freelance",
         "web":"https://www.tonisanchez.dev",
-        "array": ["abc", "def"],
         "title":"Full Stack Developer",
         "years":"2017 - current",
-        "description":"Coding for different free open source applications, UI/UX kits, React templates, modern websites and web browser extensions. Blogged about React and modern development on Medium, Dev.to, reactSavvy and others. The 4 most recent coding projects can be found on portfolio section."
+        "description":"Working with several marketing and design agencies, coding for different free open source applications, UI/UX kits, React templates, modern websites and web browser extensions. Blogged about React and modern development on Medium, Dev.to, reactSavvy and others. The 4 most recent coding projects can be found on portfolio section."
+      },
+      {
+        "company": "eEvidence",
+        "web": "https://www.eevidence.com",
+        "title": "Senior Front End Developer",
+        "years": "2021 - current",
+        "description": "Personally planning, designing, improving, extending and fixing the User Experience of 3 different products using React with Redux. Ocasionally collaborating with the development of the API (php) as part of a team. The main products of eEvidence consist of automation of email and files registration and certification to protect Intellectual Property rights following international standards that uses cryptography. With about 14K companies in 121 countries using the service, from small companies to international banks. Currently developing a third product I can't announce."
       },
       {
         "company":"ticktax.io",
