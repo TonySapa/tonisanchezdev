@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import background1 from './images/background3c.png'
+import background1 from './images/background3e.png'
 import circledImage from './images/profilePicture1.png'
 //import ParticlesBg  from "particles-bg";
 

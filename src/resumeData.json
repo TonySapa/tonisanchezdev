@@ -29,7 +29,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/antoni-s-b66ba0191/",
+        "url":"https://www.linkedin.com/in/toni-s-b66ba0191/",
         "className":"fa fa-linkedin"
       },
       {
@@ -114,7 +114,7 @@
         "web": "https://www.eevidence.com",
         "title": "Senior Front End Developer",
         "years": "2021 - current",
-        "description": "Personally planning, designing, improving, extending and fixing the User Experience of 3 different products using React with Redux. Ocasionally collaborating with the development of the API (php) as part of a team. The main products of eEvidence consist of automation of email and files registration and certification to protect Intellectual Property rights following international standards that uses cryptography. With about 14K companies in 121 countries using the service, from small companies to international banks. Currently developing a third product I can't announce."
+        "description": "Personally planning, designing, improving, extending and fixing the User Experience of 3 different products using React with Redux. Ocasionally collaborating with the development of the API as part of a team. The main products of eEvidence consist of automation of email and files registration and certification to be used as a legal proof or for protecting Intellectual Property rights following international standards that uses cryptography. With about 14K users in 121 countries using the service, from small companies to international banks."
       },
       {
         "company":"ticktax.io",
@@ -131,14 +131,6 @@
         "years":"2019 - 2020",
         "description":"Developing a web application for accounting processes automation in the IT department of a legal Firm specialised in automated accounting and taxation.",
         "achievements": "Personally developed API with Node to automate accounting entries of more than 4,000 yearly Skrill online payments in different currencies that were processed manually by accountants. Personally developed API in Node to automate more than 10,000 yearly Paypal online payments in different currencies that were processed manually by accountants. Personally developed CRUD Application with MERN to use own DB and automate accounting entries of different format csv and xls files that were previously made with expensive external software, personally developed API in Node to automate Bank conciliations that was previously made with expensive external software."
-      },
-      {
-        "company":"De Rosa i Associats",
-        "web":"https://www.sugestorialowcost.es",
-        "title":"Jr. Accountant",
-        "years":"2018",
-        "description":"Accounting and bookkeeping in a modern online accounting firm specialised in automated accounting and taxation.",
-        "achievements":"Personally automated email notices after invoice duplicate detection using PowerQuery and SQL."
       }
     ]
   },
