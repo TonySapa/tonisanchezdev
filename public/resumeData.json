@@ -20,8 +20,6 @@
       "state":"Spain",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"github",
@@ -30,7 +28,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/toni-s-b66ba0191/",
+        "url":"https://www.linkedin.com/in/tonisanchezdev/",
         "className":"fa fa-linkedin"
       },
       {
